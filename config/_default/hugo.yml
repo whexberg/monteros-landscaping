@@ -10,6 +10,9 @@ build:
       target: css
     - source: '(postcss|tailwind)\.config\.mjs'
       target: css
+caches:
+  images:
+    dir: :cacheDir/images
 
 menu:
   main:
