@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@source "hugo_stats.json";
+
+/*html {*/
+/*    scroll-behavior: smooth;*/
+/*}*/
+
+/*!* Reduce motion for users who prefer it *!*/
+/*@media (prefers-reduced-motion: reduce) {*/
+/*    html {*/
+/*        scroll-behavior: auto;*/
+/*    }*/
+/*}*/
+
+/*!* Smooth scrolling for specific containers *!*/
+/*.smooth-scroll {*/
+/*    scroll-behavior: smooth;*/
+/*}*/

@@ -1,0 +1,55 @@
+contact:
+  email: "monteroh09@gmail.com"
+  phone: "530-488-0311"
+
+heroTitle: "Monteros Landscaping Services"
+heroSubtitle: "We offer landscaping, tree care, hauling, and more!"
+heroPrimaryText: "Contact us"
+heroPrimaryUrl: "#contact"
+heroSecondaryText: "Learn more"
+heroSecondaryUrl: "#services"
+
+footer:
+  description: Professional landscaping services to transform your outdoor space into something extraordinary.
+
+developerName: William Hexberg
+developerEmail: william@thenerdbiker.com
+
+gallery:
+  - title: "Modern Garden Oasis"
+    description: "Contemporary landscape design with water features and native plantings"
+    image: "https://plus.unsplash.com/premium_photo-1673141390230-8b4a3c3152b1?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Garden Design"
+
+  - title: "Backyard Paradise"
+    description: "Complete outdoor living space with patio, fire pit, and lush landscaping"
+    image: "https://images.unsplash.com/photo-1688334517975-e47497cd819e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Outdoor Living"
+
+  - title: "Front Yard Transformation"
+    description: "Curb appeal enhancement with drought-resistant plants and stone pathways"
+    image: "https://plus.unsplash.com/premium_photo-1725408004393-570cac4cafcd?q=80&w=2094&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Curb Appeal"
+
+  - title: "Pool Area Landscaping"
+    description: "Tropical-inspired poolside design with privacy screening and entertainment areas"
+    image: "https://images.unsplash.com/photo-1750803200218-c19197e663d9?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Pool Landscaping"
+
+  - title: "Sustainable Garden"
+    description: "Eco-friendly landscape featuring rain gardens and native species"
+    image: "https://images.unsplash.com/photo-1624295885769-570803a3c650?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Sustainable Design"
+
+  - title: "Commercial Landscape"
+    description: "Professional office building grounds with seasonal color and low maintenance plants"
+    image: "https://images.unsplash.com/photo-1763346255018-ead560b0bc0c?q=80&w=1103&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    category: "Commercial"
+
+services:
+  - title: "Lawn Care"
+    description: "Weekly and bi-weekly mowing, edging, and cleanup."
+  - title: "Hardscaping"
+    description: "Patios, walkways, retaining walls, and stone work."
+  - title: "Seasonal Cleanup"
+    description: "Spring and fall cleanups to keep your property pristine."
